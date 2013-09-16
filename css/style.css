@@ -63,8 +63,9 @@ body .primary-button:hover {
     }
     .splash .splash-subhead {
         color: #999;
-        font-weight: 300;
-        line-height: 1.4em;
+        font-weight: 100;
+        line-height: 1.4;
+        letter-spacing: 1px;
     }
     .splash .splash-subhead a {
         text-decoration: none;
